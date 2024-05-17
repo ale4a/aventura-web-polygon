@@ -1,19 +1,15 @@
-<<<<<<< HEAD
 # L3arning Web3
 
-<h4 align="center">
-  <a href="https://l3arning-web3-arbitrum.vercel.app">Landing page</a>
-</h4>
+## 📜 Smart Contract
 
-## Smart Contract
-
-### ScrollSepolia
+### 🌀 Scroll Sepolia
 
 - [CriptoAventura.sol](https://sepolia.scrollscan.com/address/0xbd24709AD561e49291DF8CAaC214d2923fA41d1c)
-=======
+
 # Cripto Aventura Latam Polygon
 
-<h4 align="center">
-  <a href="https://aventura-web3-polygon.vercel.app/">Landing page</a>
-</h4>
->>>>>>> hola
+## 🌐 Landing Page
+
+  <h4>
+    <a href="https://aventura-web3-polygon.vercel.app/">Landing page</a>
+  </h4>
