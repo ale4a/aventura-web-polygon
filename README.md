@@ -4,7 +4,7 @@
 
 ### 🌀 Scroll Sepolia
 
-- [CriptoAventura.sol](https://sepolia.scrollscan.com/address/0xbd24709AD561e49291DF8CAaC214d2923fA41d1c)
+- [CriptoAventura.sol](https://cardona-zkevm.polygonscan.com/address/0x1dA103dac759D5c49710C7923db43481845F8634)
 
 # Cripto Aventura Latam Polygon
 
