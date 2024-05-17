@@ -11,5 +11,5 @@
 ## 🌐 Landing Page
 
   <h4>
-    <a href="https://aventura-web3-polygon.vercel.app/">Landing page</a>
+    <a href="https://aventura-web-polygon.vercel.app/">Landing page</a>
   </h4>
