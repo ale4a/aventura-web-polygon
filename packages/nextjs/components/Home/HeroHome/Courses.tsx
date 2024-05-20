@@ -21,7 +21,7 @@ const Courses = () => {
           href="/course/intermediate/"
         />
         <CardExplore
-          title="Refi"
+          title="Polygon"
           level="AVANZADO"
           src="/assets/home/courses3.png"
           text="Proximamente"
