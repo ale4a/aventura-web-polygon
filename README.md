@@ -2,7 +2,7 @@
 
 ## 📜 Smart Contract
 
-### 🌀 Scroll Sepolia
+### 🌀 Polygon Cardona contract
 
 - [CriptoAventura.sol](https://cardona-zkevm.polygonscan.com/address/0x1dA103dac759D5c49710C7923db43481845F8634)
 
